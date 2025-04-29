@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1d78e4002b512a501b72fee14391bfe3" label="Project Management" max_length="40" name="x_uocs3_jt_project_project_management" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Actual End Date" max_length="40" name="actual_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Actual Start Date" max_length="40" name="actual_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="256" name="comment" type="string"/>
+        <element label="Details" max_length="65536" name="details" type="html"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned End Date" mandatory="true" max_length="40" name="planned_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned Start Date" mandatory="true" max_length="40" name="planned_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="256" name="short_description" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non-zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name/>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>100</order>
+        <ordered_item_link/>
+        <owner display_value="Jimmy Tan">b26e571b1b699d50814c54ea234bcbb7</owner>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=15fa2cc02b512a501b72fee14391bf9a&amp;sysparm_preview=true", "summary");</preview>
+        <published_ref/>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script><![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]></save_script>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>027541572</sys_created_by>
+        <sys_created_on>2025-04-29 03:16:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>15fa2cc02b512a501b72fee14391bf9a</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="JT:Project Planning System" source="x_uocs3_jt_project">35472c0c2b112a501b72fee14391bf52</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="JT:Project Planning System">35472c0c2b112a501b72fee14391bf52</sys_scope>
+        <sys_update_name>sc_cat_item_producer_15fa2cc02b512a501b72fee14391bf9a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-04-29 03:16:12</sys_updated_on>
+        <table_name>x_uocs3_jt_project_project_management</table_name>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <u_approvals_time_out>false</u_approvals_time_out>
+        <u_change_approver>false</u_change_approver>
+        <u_form_owner/>
+        <u_form_short_url/>
+        <u_notify_group_on_failed_approval>false</u_notify_group_on_failed_approval>
+        <u_request_reopenable>false</u_request_reopenable>
+        <u_send_survey>true</u_send_survey>
+        <u_sla_definition_name/>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>16</version>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=15fa2cc02b512a501b72fee14391bf9a"/>
+    <fx_price action="DELETE" query="id=15fa2cc02b512a501b72fee14391bf9a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JT:Project Planning System">35472c0c2b112a501b72fee14391bf52</application>
+        <comments/>
+        <file_path/>
+        <instance_id>0b50ca664a362305010cb1dc5afaa146</instance_id>
+        <instance_name>ucsfsandbox</instance_name>
+        <name>sc_cat_item_producer_15fa2cc02b512a501b72fee14391bf9a</name>
+        <order/>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property&gt;non-zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name/&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;100&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="Jimmy Tan"&gt;b26e571b1b699d50814c54ea234bcbb7&lt;/owner&gt;&lt;picture/&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=15fa2cc02b512a501b72fee14391bf9a&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script&gt;&lt;![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/save_script&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script/&gt;&lt;short_description/&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;027541572&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-04-29 03:16:10&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;15fa2cc02b512a501b72fee14391bf9a&lt;/sys_id&gt;&lt;sys_mod_count&gt;16&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="JT:Project Planning System" source="x_uocs3_jt_project"&gt;35472c0c2b112a501b72fee14391bf52&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="JT:Project Planning System"&gt;35472c0c2b112a501b72fee14391bf52&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_15fa2cc02b512a501b72fee14391bf9a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-04-29 03:16:12&lt;/sys_updated_on&gt;&lt;table_name&gt;x_uocs3_jt_project_project_management&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;u_approvals_time_out&gt;false&lt;/u_approvals_time_out&gt;&lt;u_change_approver&gt;false&lt;/u_change_approver&gt;&lt;u_form_owner/&gt;&lt;u_form_short_url/&gt;&lt;u_notify_group_on_failed_approval&gt;false&lt;/u_notify_group_on_failed_approval&gt;&lt;u_request_reopenable&gt;false&lt;/u_request_reopenable&gt;&lt;u_send_survey&gt;true&lt;/u_send_survey&gt;&lt;u_sla_definition_name/&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;16&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=15fa2cc02b512a501b72fee14391bf9a"/&gt;&lt;fx_price action="delete_multiple" query="id=15fa2cc02b512a501b72fee14391bf9a"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-7128285</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b1472c0c2b112a501b72fee14391bf57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-04-29 03:16:12</sys_created_on>
+        <sys_id>0efa6cc02b512a501b72fee14391bfc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1967f8b87c90000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-04-29 03:16:12</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>42fa6cc075512a50e57020db26d7d8c7</update_guid>
+        <update_guid_history>42fa6cc075512a50e57020db26d7d8c7:-7128285,3dfa6cc069512a50ba562f60216b33ac:2144354850,f1fa6cc0aa512a50d4987f12ed6b289f:870689,fdfa6cc021512a50f88521516aa29191:-2142613472,b1fa6cc02d512a5007c3e142dcf8616c:8869663,71fa6cc04f512a50392036ed76812f53:-2134614498,2dfa6cc034512a50b8fdc8b90eaf6646:16868637,2dfa6cc04a512a5078933822fbace33a:-1676448691,61fa6cc002512a503ab193e11c210a2f:475034444,e9fa6cc005512a5096ff8ebd7409e923:-1668449717,e1fa6cc031512a50582f0825f2b6580c:483033418,e5fa6cc094512a500ab460605fe0db01:-1660450743,29fa2cc06b512a50c826e76c4e23e1ea:491032392,2dfa2cc00b512a50f687531ff1191ac7:-1644452795,95fa2cc085512a50f9abf3a1affa74e0:-1652451769,59fa2cc0f4512a502e7c3137080f40d6:499031366,99fa2cc062512a50be0a06da7f058e9f:-858661137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2025-04-28 20:17:58">7f5b24042b512a501b72fee14391bf7f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-04-29 03:17:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>837311b37791480c8c06efc1f9824c64</sys_id>
+        <sys_metadata>15fa2cc02b512a501b72fee14391bf9a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="JT:Project Planning System" source="x_uocs3_jt_project">35472c0c2b112a501b72fee14391bf52</sys_package>
+        <sys_parent display_value="Project Management">1d78e4002b512a501b72fee14391bfe3</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="JT:Project Planning System">35472c0c2b112a501b72fee14391bf52</sys_scope>
+        <sys_scope_delete display_value="">72e42413ceea4eecba6ec95287a8ab24</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_15fa2cc02b512a501b72fee14391bf9a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_15fa2cc02b512a501b72fee14391bf9a">0efa6cc02b512a501b72fee14391bfc7</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-04-29 03:17:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_uocs3_jt_project.GitHub_Credentials___jtancode</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Credentials - jtancode</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>027541572</sys_created_by>
+        <sys_created_on>2025-04-29 03:29:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>baedacc42b512a501b72fee14391bfc4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_uocs3_jt_project.GitHub_Credentials___jtancode</sys_name>
+        <sys_package display_value="JT:Project Planning System" source="x_uocs3_jt_project">35472c0c2b112a501b72fee14391bf52</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="JT:Project Planning System">35472c0c2b112a501b72fee14391bf52</sys_scope>
+        <sys_update_name>sys_alias_baedacc42b512a501b72fee14391bfc4</sys_update_name>
+        <sys_updated_by>027541572</sys_updated_by>
+        <sys_updated_on>2025-04-29 03:46:18</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
